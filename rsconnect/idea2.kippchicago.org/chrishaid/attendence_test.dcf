@@ -1,0 +1,13 @@
+name: attendence_test
+title: Attendence Test
+username: chrishaid
+account: chrishaid
+server: idea2.kippchicago.org
+hostUrl: https://idea2.kippchicago.org/__api__
+appId: 1
+bundleId: 4
+url: https://idea2.kippchicago.org/content/1/
+when: 1526431112.20924
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ada.rada|ada.rda|shiny_bookmarks

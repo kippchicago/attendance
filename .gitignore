@@ -1,0 +1,9 @@
+packrat/lib*/
+.Rproj.user
+*.feather
+*.feather.meta
+*.rda
+*.rada
+.Rprofile
+.Rhistory
+shiny_bookmarks/

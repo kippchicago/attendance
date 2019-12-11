@@ -1,0 +1,13 @@
+name: ops_attendance_dashboard2
+title: Ops Attendance Dashboard
+username: chrishaid
+account: chrishaid
+server: idea2.kippchicago.org
+hostUrl: https://idea2.kippchicago.org/__api__
+appId: 17
+bundleId: 314
+url: https://idea2.kippchicago.org/ops-attendance/
+when: 1573172794.83579
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: attend_date_school.feather|.Rprofile|ada_weekly_grade_hr.feather|ada_weekly_grade_hr.feather.meta|ada_weekly_school_grade.feather|ada_weekly_school_grade.feather.meta|ada.rada|ada.rda|app_old.R|attend_date_school.feather|attend_student_ytd.feather|attend_student_ytd.feather.meta|attend_student.feather|terms.feather|shiny_bookmarks

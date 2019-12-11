@@ -1,0 +1,13 @@
+name: ops_attendance_dashboard
+title: Ops Attendance Dashboard
+username: chrishaid
+account: chrishaid
+server: idea2.kippchicago.org
+hostUrl: https://idea2.kippchicago.org/__api__
+appId: 3
+bundleId: 15
+url: https://idea2.kippchicago.org/attendance/
+when: 1523991941.7958
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ada.rada|ada.rda|www/.DS_Store
